@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Using a large-scale EHR record to predict delirious patients in ICU units: an evidence-based machine learning approach",
+    "image": "img/delirium.jpg",
+    "url": "https://github.com/dizzySummer/delirium",
+    "name":" ",
+    "sometitle":"Master thesis",
+    "text":"My final project in Karolinska Institutet and Stockholm University"
+  },
+  {
+    "title": "A novel method for comparing the prediction of breast cancer using Deep Convolutional Neural Networks with invasive and non-invasive medical image datasets ",
+    "image": "img/2.jpg",
+    "url": "https://drive.google.com/file/d/1I1wG274Qwoq9DaBupNuoR-kSiPWn9X8c/view?usp=sharing",
+    "name":"",
+    "sometitle":"Deep learning project",
+    "text":""
+  },
+  {
+    "title": "Machine Learning with a Heart: Predicting Heart Disease",
+    "image": "img/3.jpg",
+    "url": "https://github.com/dizzySummer/RShiny",
+    "name":"",
+    "sometitle":"Another machine learning project",
+    "text":" Supervised and unsupervised learning"
+},
+{
+  "title": "Prototype",
+  "image": "img/UI.jpg",
+  "url": "https://drive.google.com/drive/folders/0B9lFxm4uVtEQd3RZaUF4dGc2NnM?usp=sharing",
+  "name":"",
+  "sometitle":"UI works I have done for different projects",
+  "text":" A collaboration between Karolinska Institutet and Stockholm city.
+"
+}
+]
